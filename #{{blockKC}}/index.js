@@ -18,7 +18,7 @@ import icon from './../icon-frontkom.png'
 // attributes define via php !!!
 const settings = {
 	apiVersion: 2,
-	title: __( '#{{nameSPACE}}' ),
+	title: __( '#{{name}}' ),
 	icon: <img src={icon} />,
 	description: __( '' ),
 	category: 'common',
