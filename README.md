@@ -1,1 +1,0 @@
-# scaffi-block-server-side
